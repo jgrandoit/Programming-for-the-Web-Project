@@ -1,0 +1,84 @@
+ body{
+            /*background-color:#eee;*/
+            background-image:url(../JG_Library/subtlenet2.png);
+            font-size: 18px;
+            line-height:25px;
+            font-family:" sans-serif";
+            margin:0px auto;
+     font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+            
+        }
+        a{
+            text-decoration: none;
+            color:white;
+        }
+div.faculty_container{
+     width:70%;
+     margin:auto;
+    margin-bottom: 20px;
+        }
+div.inner_container{
+    width: 70%;
+    margin: auto;
+}
+
+.faculty_container{
+     background-color:#fff;
+     border-radius:5px;
+    padding: 10px;
+    margin: auto;
+        }
+.faculty_container{
+    margin-bottom:20px;
+        }
+select{
+    padding:0px 10px;
+    margin-bottom: 10px;
+    font-size: 15px;
+    border: 3px #e0653c solid;
+    
+}
+h2{
+    color: #e0653c;
+}
+
+/*//////////////////////*/
+img {
+  max-width: 100%;
+  height: auto;
+}
+.mainContent{
+    color:#262D29;
+}
+.form-row {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin-right: -5px;
+  margin-left: -5px; }
+  .form-row > .col,
+  .form-row > [class*="col-"] {
+    padding-right: 5px;
+    padding-left: 5px; }
+.form-group {
+  margin-bottom: 1rem; }
+
+.form-control {
+  display: block;
+  width: 150%;
+  height: calc(2.25rem + 2px);
+  padding: 0.375rem 0.75rem;
+  font-size: 1rem;
+  line-height: 1.5;
+  color: #495057;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 1px solid #ced4da;
+  border-radius: 0.25rem;
+  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out; }
+form label{
+   color: #495057;
+}
